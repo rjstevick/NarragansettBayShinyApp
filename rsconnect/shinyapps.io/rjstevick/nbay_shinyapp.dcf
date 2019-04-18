@@ -1,0 +1,10 @@
+name: nbay_shinyapp
+title:
+username:
+account: rjstevick
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 857146
+bundleId: 2019501
+url: https://rjstevick.shinyapps.io/nbay_shinyapp/
+when: 1555533726.12779
