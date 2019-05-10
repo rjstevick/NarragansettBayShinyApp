@@ -5,6 +5,6 @@ account: rjstevick
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 857146
-bundleId: 2019501
+bundleId: 2075498
 url: https://rjstevick.shinyapps.io/nbay_shinyapp/
-when: 1555533726.12779
+when: 1557503817.93575
